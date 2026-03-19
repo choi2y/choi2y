@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a2e,100:16213e&height=250&section=header&text=DoyoungChoi&fontSize=70&animation=twinkling&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descAlign=50&fontColor=00AA00)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=250&section=header&text=DoyoungChoi&fontSize=80&animation=fadeIn&fontAlignY=33&desc=Backend%20Developer&descAlignY=55&descAlign=50&fontColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00AA00&center=true&vCenter=true&width=500&lines=%3E+Backend+Developer;%3E+Cloud+%26+DevOps+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Backend+Developer;Cloud+%26+DevOps+Engineer;)](https://git.io/typing-svg)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=choi2y.choi2y)
 
@@ -59,7 +59,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f23&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66a6ff,100:89f7fe&height=100&section=footer" />
 
 **💻 한계를 두지 않는 Breakthrough 정신으로 팀과 함께 성장의 변곡점을 만들겠습니다.!**
 

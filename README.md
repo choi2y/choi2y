@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=250&section=header&text=DoyoungChoi&fontSize=80&animation=fadeIn&fontAlignY=33&desc=Backend%20Developer&descAlignY=55&descAlign=50&fontColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Backend+Developer;Cloud+%26+DevOps+Engineer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Backend+Developer;Cloud+%26+DevOps+Engineer;)](https://git.io/typing-svg)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=choi2y.choi2y)
 

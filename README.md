@@ -1,6 +1,5 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=250&section=header&text=DoyoungChoi&fontSize=80&animation=fadeIn&fontAlignY=33&desc=Backend%20Developer&descAlignY=55&descAlign=50&fontColor=ffffff)
+<h1>Doyoung's GitHub👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Backend+Developer;Cloud+%26+DevOps+Engineer;)](https://git.io/typing-svg)
 
@@ -33,13 +32,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=choi2y&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choi2y&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=choi2y&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
@@ -59,8 +51,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66a6ff,100:89f7fe&height=100&section=footer" />
-
+ 
 **💻 한계를 두지 않는 Breakthrough 정신으로 팀과 함께 성장의 변곡점을 만들겠습니다.!**
 
 </div>
